@@ -1,0 +1,24 @@
+.value{
+    width: 50%;
+    line-height: 3em;
+    font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+fieldset{
+  background: #eee;
+  border: none;
+  margin-bottom: 0.5em;
+}
+
+body {
+  font-family: sans-serif;
+  color: #666;
+}
+
+input[type="date"]{
+  font-family: inherit;
+  font-size: 1em;
+  color: inherit;
+}
